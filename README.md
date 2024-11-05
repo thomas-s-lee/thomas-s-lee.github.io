@@ -1,15 +1,15 @@
 
-This repository contains essential job market materials.
-[The list of Jobs](https://docs.google.com/spreadsheets/d/1evlTQYFrQgVEXmRB8dvV9UASXXf5mvTdq_-W_6KhQaY/edit?usp=sharing)
+This repository contains essential job market materials. <br />
+You can find the list of jobs [here](https://docs.google.com/spreadsheets/d/1evlTQYFrQgVEXmRB8dvV9UASXXf5mvTdq_-W_6KhQaY/edit?usp=sharing)
 ## Contents
 
-- **CV.pdf**
+- **CV.pdf**  <br />
   CV
-- **JMP.pdf**
+- **JMP.pdf** <br />
   Job market paper
-- **Research.pdf**
+- **Research.pdf** <br />
   Research Statement
-- **Teaching.pdf**  
+- **Teaching.pdf**   <br />
   Teaching Statement
 
 ## Updates
