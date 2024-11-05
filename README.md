@@ -1,5 +1,6 @@
+# Job Market Materials
 
-This repository contains essential job market materials. <br />
+
 You can find the list of jobs [here](https://docs.google.com/spreadsheets/d/1evlTQYFrQgVEXmRB8dvV9UASXXf5mvTdq_-W_6KhQaY/edit?usp=sharing)
 ## Contents
 
